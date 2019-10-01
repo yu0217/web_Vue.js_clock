@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Turret+Road&display=swap");
+body{
+    height: 100vh;
+    background: rgb(67,142,143);
+    background: radial-gradient(circle, rgba(67,142,143,1) 0%, rgba(3,2,57,1) 100%);
+}
+
+#time{
+    font-size:6em;
+    font-family: 'Turret Road', cursive;;
+    color:white;
+    text-align: center;
+    line-height: 100vh;
+    // text-shadow 調整字的陰影
+    text-shadow: 0 0 20px rgba(167,242,243,0.5);
+}
